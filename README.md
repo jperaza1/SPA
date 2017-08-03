@@ -10,4 +10,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Este es un Ejemplo Claro de Como usar hacer una SPA con Angular y usando un Archivo Json de datos para usarlo en paginas.
 
--- Jose Peraza 
+-- Jose Peraza --
